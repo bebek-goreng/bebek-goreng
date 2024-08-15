@@ -1,8 +1,8 @@
 - 👋 Hi there, I’m Mahendra
-- 👀 Hobby: Rebahan
-- 🌱 Motto: "HIDUP SEPERTI LARRY".
+- 👀 Hobby:  Reading Comics, Playing Games, Playing Futsal 🔥🔥🔥
+- 🌱 Motto: "HIDUP SEPERTI LARRY"
 - 💞️ Love language: Acts of Service? Physical Touch? Quality Time? ❌ JavaScript ✅
-- ⚡ Fun fact: Aku punya kucing tiga 🐈🐈🐈
+- ⚡ Fun fact: I have three cats 🐈🐈🐈
 - 🗿 Quote for today: Sedikit-sedikit lama-lama sejuta commit, menyala abangkuhh~ 🔥🔥🔥
 
 
