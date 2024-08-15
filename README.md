@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Mahendra
 - 👀 Hobby: Rebahan
-- 🌱 Motto: "Mengapa melakukan hari ini apa yang bisa aku lakukan besok?" tapi bercanda.
+- 🌱 Motto: "HIDUP SEPERTI LARRY".
 - 💞️ Love language: Acts of Service? Physical Touch? Quality Time? ❌ JavaScript ✅
 - ⚡ Fun fact: Aku punya kucing tiga 🐈🐈🐈
 - 🗿 Quote for today: Sedikit-sedikit lama-lama sejuta commit, menyala abangkuhh~ 🔥🔥🔥
