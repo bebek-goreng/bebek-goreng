@@ -9,6 +9,12 @@ You can also connect with me through the social links above, I'd love to chat an
 
 ---
 
+<h4>Check out the portfolio I'm building! 🌟</h4>
+
+- [Sofyan Mahendra](https://sofyan-mahendra.vercel.app/)
+ 
+ --- 
+
 <h4 align="left">Connect with me:</h4>
 <p align="left">
   <a href="https://linkedin.com/in/sofyan-mahendra" target="_blank">
@@ -52,7 +58,3 @@ You can also connect with me through the social links above, I'd love to chat an
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bebek-goreng&" alt="bebek-goreng" /></p>
 
 ---
-
-<h4>Check out the portfolio I'm building! 🌟</h4>
-
-- - [Sofyan Mahendra](https://sofyan-mahendra.vercel.app/)
