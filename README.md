@@ -1,15 +1,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bebek-goreng&label=Profile%20views&color=0e75b6&style=flat" alt="bebek-goreng" /> </p>
-<h1 align="center">Hello there👋</h1>
-<p>I'm Mahen, a passionate software developer from Indonesia, always eager to build projects that make a difference. I love working with technologies like React, Node.js, and NestJS, and I'm constantly exploring new tools to enhance my work.
+<h4 align="center">Hello there👋</h4>
+<p>I'm Mahen, a passionate software developer from Indonesia, always eager to build projects that make a difference. I love working with technologies like Express Js, Node.js, and NestJS, and I'm constantly exploring new tools to enhance my work.
 
 Feel free to explore my projects below, and if you find something helpful, don't forget to leave a star! 🌟
 
-You can also connect with me through the social links above—I'd love to chat and share ideas. Looking forward to connecting with you! ❤️</p>
+You can also connect with me through the social links above, I'd love to chat and share ideas. Looking forward to connecting with you! ❤️</p>
 
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
   <a href="https://linkedin.com/in/sofyan-mahendra" target="_blank">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png" alt="LinkedIn" width="30" height="30"/>
@@ -22,7 +22,7 @@ You can also connect with me through the social links above—I'd love to chat a
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Here's a list of my tech stack and skills</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="babel" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
@@ -50,3 +50,9 @@ You can also connect with me through the social links above—I'd love to chat a
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bebek-goreng&show_icons=true&locale=en" alt="bebek-goreng" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bebek-goreng&" alt="bebek-goreng" /></p>
+
+---
+
+<h4>Check out the portfolio I'm building! 🌟</h4>
+
+- - [Sofyan Mahendra](https://sofyan-mahendra.vercel.app/)
