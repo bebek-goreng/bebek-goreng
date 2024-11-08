@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bebek-goreng&label=Profile%20views&color=0e75b6&style=flat" alt="bebek-goreng" /> </p>
 <h4 align="center">Hello there👋</h4>
-<p>I'm Mahen, a passionate software developer from Indonesia, always eager to build projects that make a difference. I love working with technologies like Express Js, Node.js, and NestJS, and I'm constantly exploring new tools to enhance my work.
+<p>I'm Mahen, a passionate software engineer from Indonesia, always eager to build projects that make a difference. I love working with technologies like Express Js, Node.js, and NestJS, and I'm constantly exploring new tools to enhance my work.
 
 Feel free to explore my projects below, and if you find something helpful, don't forget to leave a star! 🌟
 
