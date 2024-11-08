@@ -52,9 +52,12 @@ You can also connect with me through the social links above, I'd love to chat an
 ---
 
 <p>
- &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bebek-goreng&show_icons=true&locale=en" alt="bebek-goreng" />
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bebek-goreng&" alt="bebek-goreng" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bebek-goreng&" alt="bebek-goreng" /> 
 </p>
+<p>
+ &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bebek-goreng&show_icons=true&locale=en" alt="bebek-goreng" />
+</p>
+
 
 
 
